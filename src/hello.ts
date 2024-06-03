@@ -1,3 +1,3 @@
 export const world = (size: number): number => {
-    return size * size
-}
+  return size * size;
+};
