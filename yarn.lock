@@ -546,6 +546,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@tsconfig/node22@npm:^22.0.1":
+  version: 22.0.1
+  resolution: "@tsconfig/node22@npm:22.0.1"
+  checksum: 10c0/9448a14da65ebdafe10bef2582df11c8c8a769b919854747ad97f127eedc188f5e383b5b08df74bd895fa3738f17a442f9de153c0b326f870f2b335f36b51c43
+  languageName: node
+  linkType: hard
+
 "@tsconfig/strictest@npm:^2.0.5":
   version: 2.0.5
   resolution: "@tsconfig/strictest@npm:2.0.5"
@@ -2465,6 +2472,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.24.0"
     "@tsconfig/node20": "npm:^20.1.5"
+    "@tsconfig/node22": "npm:^22.0.1"
     "@tsconfig/strictest": "npm:^2.0.5"
     "@types/node": "npm:^22.14.1"
     eslint: "npm:^9.24.0"
